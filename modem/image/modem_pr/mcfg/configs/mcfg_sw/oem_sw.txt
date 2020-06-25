@@ -1,0 +1,11 @@
+mcfg_sw/generic/eu/dt/volte/commerci/mcfg_sw.mbn
+mcfg_sw/generic/eu/orange/commerci/spain/mcfg_sw.mbn
+mcfg_sw/generic/eu/telefoni/commerci/de/mcfg_sw.mbn
+mcfg_sw/generic/eu/tim/commerci/italy/mcfg_sw.mbn
+mcfg_sw/generic/eu/vodafone/volte/spain/mcfg_sw.mbn
+mcfg_sw/generic/eu/vodafone/volte/germany/mcfg_sw.mbn
+mcfg_sw/generic/eu/vodafone/volte/italy/mcfg_sw.mbn
+mcfg_sw/generic/eu/yoigo/spain/mcfg_sw.mbn
+mcfg_sw/generic/common/row/commerci/mcfg_sw.mbn
+mcfg_sw/generic/russia/beeline/gen_3gpp/mcfg_sw.mbn
+mcfg_sw/generic/russia/megafon/commerci/ru/mcfg_sw.mbn
